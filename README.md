@@ -1,3 +1,3 @@
 # Convolutional Neural Networks From Scratch
 
-Build a CNN from scratch using Python to clasify CIFAR-10
+Build a CNN from scratch using Python to classify CIFAR-10
